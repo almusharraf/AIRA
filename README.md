@@ -31,18 +31,3 @@ Long-Term Impact
 
 Aims to redefine AI-assisted communication with a focus on accessibility 
 and emotional intelligence.
-Getting Started
-
-(Instructions on how to install, set up, and use the app)
-
-Contributing
-
-(Guidelines for contributing to the project)
-
-License
-
-(Details about the licensing of the software)
-
-Contact
-
-(Contact information for the project team)
